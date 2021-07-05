@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning Django and ReactJs
-- 🤠 My Potfolio - http://akansharai.ga/
+- 🤠 My Portfolio - http://akansharai.ga/
 - 🙋‍♀️ LinkedIn Profile - <a href="https://www.linkedin.com/in/akansha-rai/">Akansha-Rai</a>
 - 🎲 LeetCode Profile - <a href="https://leetcode.com/AkanR/">AkanR</a>
 - 📫 How to reach me: akansharai.wd@gmail.com
