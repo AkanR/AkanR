@@ -3,19 +3,15 @@
 <h1 align="center">Hello there 👋, Akansha Rai here</h1>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=AkanR alt=AkanshaRai/> </p>
 
-- 🌱 I’m currently learning Django and ReactJs
-- 🤠 My Portfolio - http://akansharai.ga/
-- 🙋‍♀️ LinkedIn Profile - <a href="https://www.linkedin.com/in/akansha-rai/">Akansha-Rai</a>
-- 📫 How to reach me: akansharai165@gmail.com
-- ⚡ Fun fact: I like to read fiction novels and scrolling through memes.
+[![Linkedin Badge](https://img.shields.io/badge/-AkanshaRai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akansha-rai/)](https://www.linkedin.com/in/akansha-rai/)
+[![Gmail Badge](https://img.shields.io/badge/-akansharai165@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akansharai165@gmail.com)](mailto:akansharai165@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=http://akansharai.ga/)](http://akansharai.ga/)
 
-
-
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AkanR&show_icons=true&theme=vue-dark&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=AkanR&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" height="205">
+## 📈 Stats
+<p>
+<img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AkanR&show_icons=true&theme=vue-dark&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AkanR&show_icons=true&theme=tokyonight" />
+</p>
 
 
 
