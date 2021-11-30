@@ -40,5 +40,4 @@
 
 
 
-[![Akansha Rai's github activity graph](https://activity-graph.herokuapp.com/graph?username=AkanR&theme=xcode)](https://git.io/AkanR)
 
