@@ -5,7 +5,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-AkanshaRai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akansha-rai/)](https://www.linkedin.com/in/akansha-rai/)
 [![Gmail Badge](https://img.shields.io/badge/-akansharai165@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akansharai165@gmail.com)](mailto:akansharai165@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=http://akansharai.ga/)](http://akansharai.ga/)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://akanr.github.io/index.html)](https://akanr.github.io/index.html)
 
 ## 💻 Technologies
 
