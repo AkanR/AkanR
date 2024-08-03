@@ -1,7 +1,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Akansha%20Rai&fontSize=50&animation=scaleIn&fontAlignY=38&fontAlign=75&reversal=true" />
 <h1 align="center">Hello there 👋, Akansha Rai here</h1>
-<p align="center">Data Engineer skilled in Python (Programming Language), Apache Spark, Hadoop, and SQL. Worked with cloud services offered by AWS (Serverless, EMR, Redshift, RDS, etc.), building and scheduling ETL pipelines and jobs.</p>
+<p align="center">Experienced Data Engineer skilled in Python, Apache Spark, Hadoop, and SQL. Adept at utilizing AWS cloud services, including Serverless architecture, EMR, Redshift, and DynamoDB, for the development and optimization of ETL pipelines and data workflows. Proficient in implementing and managing Generative AI solutions</p>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=AkanR alt=AkanshaRai/> </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-AkanshaRai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akansha-rai/)](https://www.linkedin.com/in/akansha-rai/)
